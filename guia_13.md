@@ -37,6 +37,14 @@
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243976#overview
 
 
+174. Enviando JSON
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243980#overview
+
+ 175. Router parameters
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243986#overview
+
+
+
 	TESTE DE APIS PARA VISUAL CODE COM - THUNDER CLIENT
   -> https://www.youtube.com/watch?v=dst-XewGjNo
 
