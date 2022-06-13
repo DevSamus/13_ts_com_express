@@ -17,3 +17,28 @@
     "test": "echo \"Error: no test specified\" && exit 1",
    ->  "dev": "ts-node-dev --respawn --transpile-only src/app.ts "
   },
+
+169. Iniciando o Express	
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243960#overview
+
+170. Instalando o Postman
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243964#overview
+
+
+171. Rota com POST
+-> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243968#overview
+
+
+
+172. Rota para qualquer verbo
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243970#overview
+
+173. Interfaces do Express
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30243976#overview
+
+
+	TESTE DE APIS PARA VISUAL CODE COM - THUNDER CLIENT
+  -> https://www.youtube.com/watch?v=dst-XewGjNo
+
+	CONSUMINDO API RESTFUL NO VSCODE COM A EXTENSÃO THUNDER CLIENT | SUBSTITUI O INSOMNIA OU POSTMAN?
+  -> https://www.youtube.com/watch?v=u6x-S9v7g8A
