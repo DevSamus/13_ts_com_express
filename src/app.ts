@@ -127,6 +127,20 @@ app.get("/api/user/:id/details/:name",
 	}
 );
 
+//* 13 - tratamento de erros 
+
+app.get("/api/error", (req:Request, res:Response) => {		
+	try {
+		throw new Error("Algo deu errado!!");		
+	} catch (error) {
+	  // * res.statusCode=500
+		return res.status(500).json(`${error}`)
+	}
+	
+})
+
+
+
 app.listen(3000, () => {
   console.log("Aplicação de Typescript + Express funcionado");
   console.log("http://localhost:3000/");

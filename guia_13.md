@@ -61,6 +61,10 @@
  181. Tratando erros
   -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30246092#overview
 
+ 182. Conclusão da seção
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30246096#overview
+	
+
 	TESTE DE APIS PARA VISUAL CODE COM - THUNDER CLIENT
   -> https://www.youtube.com/watch?v=dst-XewGjNo
 
